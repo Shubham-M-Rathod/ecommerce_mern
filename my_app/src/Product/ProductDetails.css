@@ -1,0 +1,13 @@
+.body_details
+{
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.img_details
+{
+    max-height:60vh;
+    object-fit: contain;
+}

@@ -1,0 +1,15 @@
+.product-input
+{
+    margin:30px 30px;
+    border:5px solid #c7a5ff;
+    border-radius:10px;
+    padding:20px;
+}
+
+#img_upload
+{
+    max-height: 250px;
+    height:50vh;
+    width: auto;
+    object-fit: contain;
+}
