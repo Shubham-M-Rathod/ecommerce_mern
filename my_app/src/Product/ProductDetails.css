@@ -1,0 +1,11 @@
+
+.details-card
+{
+    margin : 5% 20% !important;
+}
+
+.img_details
+{
+    max-height:60vh;
+    object-fit: contain;
+}
