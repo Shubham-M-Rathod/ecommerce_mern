@@ -29,7 +29,7 @@ app.use((err, req, res, next)=>
 })
 // 1
 mongoose//store=name of db
- .connect("mongodb+srv://Shubham:12345%40Abcde@store.18ylbtx.mongodb.net/?retryWrites=true&w=majority") //dummy password and store - database name
+ .connect("mongodb+srv://user:pass@store.18ylbtx.mongodb.net/?retryWrites=true&w=majority") //dummy password and store - database name
  .then(()=>{app.listen(5000)})
  .catch((err)=>{console.log(err)});
 
