@@ -35,6 +35,4 @@ User SignUp and Login
 #
 Basic Cart
 <br/>
-![image](https://user-images.githubusercontent.com/96727745/223518313-5ee09143-5eff-4c3d-9d40-31163182b86a.png)
-
-
+![image](https://github.com/Shubham-M-Rathod/ecommerce_mern/assets/96727745/8539012c-ce20-4aa1-a515-d1e16a590c27)
