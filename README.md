@@ -1,8 +1,6 @@
 
 # Ecommerce using MERN
 
-### Note : This is an ongoing project.
-
 The project uses MERN stack to delevelop a fully functional ecommerce store 
 
 Functionalities: \
