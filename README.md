@@ -2,15 +2,6 @@
 # Ecommerce using MERN
 
 The project uses MERN stack to delevelop a fully functional ecommerce store 
-
-Functionalities: \
--> User Friendly \
--> A complete Stock Management system \
--> Description about your products \
--> User Login and Authentication  \
-(Ongoing)
-
-
 ## Screenshots
 Products List
 <br/>
